@@ -1,3 +1,4 @@
+#utiltising python lambda functions to calculate and output expenses
 def add_expense(expenses, amount, category):
     expenses.append({'amount': amount, 'category': category})
     
